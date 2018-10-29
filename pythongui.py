@@ -1,7 +1,6 @@
 from Tkinter import *
 window = Tk()
 name = StringVar()
-vote1 = IntVar()
 vote2 = IntVar()
 def print_the_vote() :
 	uname = StringVar() 
