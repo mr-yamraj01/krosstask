@@ -26,7 +26,6 @@ def print_the_vote() :
 		voting3 = Label (window , text = "dont you trust any candidate")
 		voting3.grid(column = 2)
 username = Label(window, text = 'username')
-entry = Entry(window ,bd = 5, textvariable = name)
 username.grid(column = 2, row = 2 )
 entry.grid(column = 3 , row = 2)
 question = StringVar()
