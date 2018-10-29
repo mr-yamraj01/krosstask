@@ -1,2 +1,2 @@
 # krosstask
-for submittion of the tasks of kross
+for submittion of the tasks of koss
